@@ -1,4 +1,4 @@
-# 팀명: (매운치킨)
+# 팀명: (spicychicken)
 
 ## 팀원
 | 이름 | GitHub ID | 역할 희망 |
